@@ -6,15 +6,15 @@
 
 Python is a programming language that has become very popular in recent years. It's used for everything from web development to data science and machine learning. This skill tree will teach you how to use Python from the command line, as well as some basic programming concepts like variables and functions.
 
-|   Index | Name                                                          | Level   | Repo                                                                 | Course Link                                                               |
-|---------|---------------------------------------------------------------|---------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
-|       1 | [Quick Start with Python](#quick-start-with-python)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-python)      |
-|       2 | [Python Practice Labs](#python-practice-labs)                 | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/python-practice-labs)         | [🚀 Start Learning](https://labex.io/courses/python-practice-labs)         |
-|       3 | [Python Practice Challenges](#python-practice-challenges)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)   | [🚀 Start Learning](https://labex.io/courses/python-practice-challenges)   |
-|       4 | [Quick Start with Algorithm](#quick-start-with-algorithm)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-algorithm)   | [🚀 Start Learning](https://labex.io/courses/quick-start-with-algorithm)   |
-|       5 | [Quick Start with Django](#quick-start-with-django)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-django)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-django)      |
-|       6 | [Practical Python Programming](#practical-python-programming) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/practical-python-programming) | [🚀 Start Learning](https://labex.io/courses/practical-python-programming) |
-|       7 | [The Advanced Python Mastery](#the-advanced-python-mastery)   | ★★★     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery)  | [🚀 Start Learning](https://labex.io/courses/the-advanced-python-mastery)  |
+|   Index | Name                                                                                  | Level   | Repo                                                                 | Course Link                                                      |
+|---------|---------------------------------------------------------------------------------------|---------|----------------------------------------------------------------------|------------------------------------------------------------------|
+|       1 | [Quick Start with Python](https://labex.io/courses/quick-start-with-python)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)      | [🚀 Start](https://labex.io/courses/quick-start-with-python)      |
+|       2 | [Python Practice Labs](https://labex.io/courses/python-practice-labs)                 | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/python-practice-labs)         | [🚀 Start](https://labex.io/courses/python-practice-labs)         |
+|       3 | [Python Practice Challenges](https://labex.io/courses/python-practice-challenges)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)   | [🚀 Start](https://labex.io/courses/python-practice-challenges)   |
+|       4 | [Quick Start with Algorithm](https://labex.io/courses/quick-start-with-algorithm)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-algorithm)   | [🚀 Start](https://labex.io/courses/quick-start-with-algorithm)   |
+|       5 | [Quick Start with Django](https://labex.io/courses/quick-start-with-django)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-django)      | [🚀 Start](https://labex.io/courses/quick-start-with-django)      |
+|       6 | [Practical Python Programming](https://labex.io/courses/practical-python-programming) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/practical-python-programming) | [🚀 Start](https://labex.io/courses/practical-python-programming) |
+|       7 | [The Advanced Python Mastery](https://labex.io/courses/the-advanced-python-mastery)   | ★★★     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery)  | [🚀 Start](https://labex.io/courses/the-advanced-python-mastery)  |
 
 ## More Courses
 
