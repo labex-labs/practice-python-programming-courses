@@ -12,9 +12,9 @@ Python es un lenguaje de programación versátil y de alto nivel. Este Skill Tre
 
 |   Índice | Nombre                                                                                   | Dificultad   | Repo                                                                 | Práctica                                                                          |
 |----------|------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|        1 | [Inicio rápido con Python](https://labex.io/es/courses/quick-start-with-python)          | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-python)     |
-|        2 | [El Dominio Avanzado de Python](https://labex.io/es/courses/the-advanced-python-mastery) | ★★★          | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/the-advanced-python-mastery) |
-|        3 | [Desafíos de Práctica en Python](https://labex.io/es/courses/python-practice-challenges) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/python-practice-challenges)  |
+|        1 | [Inicio rápido con Python](https://labex.io/es/courses/quick-start-with-python)          | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-python)     |
+|        2 | [El Dominio Avanzado de Python](https://labex.io/es/courses/the-advanced-python-mastery) | Avanzado     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/the-advanced-python-mastery) |
+|        3 | [Desafíos de Práctica en Python](https://labex.io/es/courses/python-practice-challenges) | Principiante | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/python-practice-challenges)  |
 
 ## Más
 
