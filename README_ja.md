@@ -12,9 +12,9 @@ Python は多用途で高水準なプログラミング言語です。このス�
 
 |   インデックス | 名前                                                                              | 難易度   | Repo                                                                 | 練習                                                                     |
 |----------------|-----------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|--------------------------------------------------------------------------|
-|              1 | [Python のクイックスタート](https://labex.io/ja/courses/quick-start-with-python)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-python)     |
-|              2 | [高度な Python マスター](https://labex.io/ja/courses/the-advanced-python-mastery) | ★★★      | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 ラボを開始](https://labex.io/ja/courses/the-advanced-python-mastery) |
-|              3 | [Python 実践チャレンジ](https://labex.io/ja/courses/python-practice-challenges)   | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 ラボを開始](https://labex.io/ja/courses/python-practice-challenges)  |
+|              1 | [Python のクイックスタート](https://labex.io/ja/courses/quick-start-with-python)  | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-python)     |
+|              2 | [高度な Python マスター](https://labex.io/ja/courses/the-advanced-python-mastery) | 上級     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 ラボを開始](https://labex.io/ja/courses/the-advanced-python-mastery) |
+|              3 | [Python 実践チャレンジ](https://labex.io/ja/courses/python-practice-challenges)   | 初級     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 ラボを開始](https://labex.io/ja/courses/python-practice-challenges)  |
 
 ## その他
 
