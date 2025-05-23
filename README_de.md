@@ -12,9 +12,9 @@ Python ist eine vielseitige, hochgradige Programmiersprache. Dieser Skill Tree b
 
 |   Index | Name                                                                                                   | Schwierigkeit   | Repo                                                                 | Übung                                                                       |
 |---------|--------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [Schnellstart mit Python](https://labex.io/de/courses/quick-start-with-python)                         | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-python)     |
-|       2 | [Die Fortgeschrittene Python - Meisterschaft](https://labex.io/de/courses/the-advanced-python-mastery) | ★★★             | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 Labor Starten](https://labex.io/de/courses/the-advanced-python-mastery) |
-|       3 | [Python Übungsherausforderungen](https://labex.io/de/courses/python-practice-challenges)               | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 Labor Starten](https://labex.io/de/courses/python-practice-challenges)  |
+|       1 | [Schnellstart mit Python](https://labex.io/de/courses/quick-start-with-python)                         | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-python)     |
+|       2 | [Die Fortgeschrittene Python - Meisterschaft](https://labex.io/de/courses/the-advanced-python-mastery) | Experte         | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 Labor Starten](https://labex.io/de/courses/the-advanced-python-mastery) |
+|       3 | [Python Übungsherausforderungen](https://labex.io/de/courses/python-practice-challenges)               | Anfänger        | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 Labor Starten](https://labex.io/de/courses/python-practice-challenges)  |
 
 ## Mehr
 
