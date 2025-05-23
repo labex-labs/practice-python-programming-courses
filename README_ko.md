@@ -12,9 +12,9 @@ Python 은 다재다능한 고급 프로그래밍 언어입니다. 이 Skill Tre
 
 |   인덱스 | 이름                                                                                   | 난이도   | Repo                                                                 | 연습                                                                    |
 |----------|----------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
-|        1 | [Python 퀵 스타트](https://labex.io/ko/courses/quick-start-with-python)                | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-python)     |
-|        2 | [The Advanced Python Mastery](https://labex.io/ko/courses/the-advanced-python-mastery) | ★★★      | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 실습 시작](https://labex.io/ko/courses/the-advanced-python-mastery) |
-|        3 | [Python 실습 챌린지](https://labex.io/ko/courses/python-practice-challenges)           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 실습 시작](https://labex.io/ko/courses/python-practice-challenges)  |
+|        1 | [Python 퀵 스타트](https://labex.io/ko/courses/quick-start-with-python)                | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-python)     |
+|        2 | [The Advanced Python Mastery](https://labex.io/ko/courses/the-advanced-python-mastery) | 고급     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 실습 시작](https://labex.io/ko/courses/the-advanced-python-mastery) |
+|        3 | [Python 실습 챌린지](https://labex.io/ko/courses/python-practice-challenges)           | 초급     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 실습 시작](https://labex.io/ko/courses/python-practice-challenges)  |
 
 ## 더 보기
 
