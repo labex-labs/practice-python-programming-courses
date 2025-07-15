@@ -13,8 +13,9 @@ Python 是一种通用的高级编程语言。本技能树为学习 Python 提�
 |   序号 | 名称                                                                       | 难度   | Repo                                                                 | 练习                                                                   |
 |--------|----------------------------------------------------------------------------|--------|----------------------------------------------------------------------|------------------------------------------------------------------------|
 |      1 | [Python 快速入门](https://labex.io/zh/courses/quick-start-with-python)     | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-python)     |
-|      2 | [Python 高级精通](https://labex.io/zh/courses/the-advanced-python-mastery) | 高级   | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 开始实验](https://labex.io/zh/courses/the-advanced-python-mastery) |
-|      3 | [Python 实践挑战](https://labex.io/zh/courses/python-practice-challenges)  | 初级   | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 开始实验](https://labex.io/zh/courses/python-practice-challenges)  |
+|      2 | [Python 入门指南](https://labex.io/zh/courses/python-for-beginners)        | 初级   | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)        | [🚀 开始实验](https://labex.io/zh/courses/python-for-beginners)        |
+|      3 | [Python 高级精通](https://labex.io/zh/courses/the-advanced-python-mastery) | 高级   | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 开始实验](https://labex.io/zh/courses/the-advanced-python-mastery) |
+|      4 | [Python 实践挑战](https://labex.io/zh/courses/python-practice-challenges)  | 初级   | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 开始实验](https://labex.io/zh/courses/python-practice-challenges)  |
 
 ## 更多
 
