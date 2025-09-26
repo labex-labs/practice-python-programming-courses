@@ -8,14 +8,14 @@
 <img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
 </div>
 
-Python is a versatile, high-level programming language. This Skill Tree offers a systematic way to learn Python. It's perfect for programming beginners, providing a structured roadmap to grasp Python syntax, data structures, and object - oriented programming. Hands - on, non - video courses and coding exercises in an interactive Python playground help you develop practical skills to write clean and efficient Python code for various applications.
+Learn Python, a versatile, high-level programming language, with this structured learning path designed for beginners. These Python courses provide a systematic roadmap to master core concepts including Python syntax, data structures, and object-oriented programming. Develop practical skills through hands-on, non-video exercises in an interactive Python playground, enabling you to write clean and efficient code for various applications.
 
 |   Index | Name                                                                                | Difficulty   | Repo                                                                 | Practice                                                             |
 |---------|-------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 |       1 | [Quick Start with Python](https://labex.io/courses/quick-start-with-python)         | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Start Lab](https://labex.io/courses/quick-start-with-python)     |
-|       2 | [Python for Beginners](https://labex.io/courses/python-for-beginners)               | Beginner     | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)        | [🚀 Start Lab](https://labex.io/courses/python-for-beginners)        |
-|       3 | [The Advanced Python Mastery](https://labex.io/courses/the-advanced-python-mastery) | Advanced     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 Start Lab](https://labex.io/courses/the-advanced-python-mastery) |
-|       4 | [Python Practice Challenges](https://labex.io/courses/python-practice-challenges)   | Beginner     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 Start Lab](https://labex.io/courses/python-practice-challenges)  |
+|       2 | [The Advanced Python Mastery](https://labex.io/courses/the-advanced-python-mastery) | Beginner     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 Start Lab](https://labex.io/courses/the-advanced-python-mastery) |
+|       3 | [Python Practice Challenges](https://labex.io/courses/python-practice-challenges)   | Beginner     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 Start Lab](https://labex.io/courses/python-practice-challenges)  |
+|       4 | [Python for Beginners](https://labex.io/courses/python-for-beginners)               | Beginner     | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)        | [🚀 Start Lab](https://labex.io/courses/python-for-beginners)        |
 
 ## More
 
