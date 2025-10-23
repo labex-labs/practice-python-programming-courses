@@ -10,12 +10,11 @@
 
 Aprenda Python, uma linguagem de programação versátil e de alto nível, com este roteiro de aprendizagem estruturado e concebido para iniciantes. Estes cursos de Python fornecem um caminho sistemático para dominar conceitos essenciais, incluindo sintaxe Python, estruturas de dados e programação orientada a objetos. Desenvolva habilidades práticas através de exercícios práticos e não-vídeo num ambiente interativo de Python, permitindo-lhe escrever código limpo e eficiente para várias aplicações.
 
-|   Índice | Nome                                                                                  | Dificuldade   | Repo                                                                 | Prática                                                                   |
-|----------|---------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [Início Rápido com Python](https://labex.io/pt/courses/quick-start-with-python)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-python)     |
-|        2 | [Domínio Avançado de Python](https://labex.io/pt/courses/the-advanced-python-mastery) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 Iniciar Lab](https://labex.io/pt/courses/the-advanced-python-mastery) |
-|        3 | [Desafios Práticos de Python](https://labex.io/pt/courses/python-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 Iniciar Lab](https://labex.io/pt/courses/python-practice-challenges)  |
-|        4 | [Python para Iniciantes](https://labex.io/pt/courses/python-for-beginners)            | Iniciante     | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/python-for-beginners)        |
+|   Índice | Nome                                                                                  | Dificuldade   | Repo                                                                | Prática                                                                  |
+|----------|---------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
+|        1 | [Início Rápido com Python](https://labex.io/pt/courses/quick-start-with-python)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-python)    |
+|        2 | [Desafios Práticos de Python](https://labex.io/pt/courses/python-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/python-practice-challenges) |
+|        3 | [Python para Iniciantes](https://labex.io/pt/courses/python-for-beginners)            | Iniciante     | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/python-for-beginners)       |
 
 ## Mais
 
