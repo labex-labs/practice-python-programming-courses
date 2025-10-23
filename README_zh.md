@@ -10,12 +10,11 @@
 
 通过这个专为初学者设计的结构化学习路径，学习 Python 这门多功能、高级的编程语言。这些 Python 课程提供了一个系统的路线图，帮助您掌握核心概念，包括 Python 语法、数据结构和面向对象编程。通过交互式 Python 演练场中的动手实践（非视频）练习，培养实用技能，使您能够为各种应用程序编写简洁高效的代码。
 
-|   序号 | 名称                                                                       | 难度   | Repo                                                                 | 练习                                                                   |
-|--------|----------------------------------------------------------------------------|--------|----------------------------------------------------------------------|------------------------------------------------------------------------|
-|      1 | [Python 快速入门](https://labex.io/zh/courses/quick-start-with-python)     | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-python)     |
-|      2 | [Python 高级精通](https://labex.io/zh/courses/the-advanced-python-mastery) | 初级   | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery) | [🚀 开始实验](https://labex.io/zh/courses/the-advanced-python-mastery) |
-|      3 | [Python 实践挑战](https://labex.io/zh/courses/python-practice-challenges)  | 初级   | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges)  | [🚀 开始实验](https://labex.io/zh/courses/python-practice-challenges)  |
-|      4 | [Python 入门指南](https://labex.io/zh/courses/python-for-beginners)        | 初级   | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)        | [🚀 开始实验](https://labex.io/zh/courses/python-for-beginners)        |
+|   序号 | 名称                                                                      | 难度   | Repo                                                                | 练习                                                                  |
+|--------|---------------------------------------------------------------------------|--------|---------------------------------------------------------------------|-----------------------------------------------------------------------|
+|      1 | [Python 快速入门](https://labex.io/zh/courses/quick-start-with-python)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-python)    |
+|      2 | [Python 实践挑战](https://labex.io/zh/courses/python-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/python-practice-challenges) |
+|      3 | [Python 入门指南](https://labex.io/zh/courses/python-for-beginners)       | 初级   | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)       | [🚀 开始实验](https://labex.io/zh/courses/python-for-beginners)       |
 
 ## 更多
 
