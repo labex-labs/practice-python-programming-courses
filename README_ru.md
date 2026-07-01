@@ -1,25 +1,45 @@
-# Practice Python Курсы программирования
+# Python Practice Courses
 
-## Языки
+**Языки:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/7aei0JokTWul.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/ru/learn/python">
+    <img width="128" src="https://file.labex.io/upload/u/1991/7aei0JokTWul.png" alt="Python">
+  </a>
+</p>
 
 Изучите Python, универсальный язык программирования высокого уровня, с помощью этого структурированного учебного плана, разработанного для начинающих. Эти курсы Python предлагают систематическую дорожную карту для освоения основных концепций, включая синтаксис Python, структуры данных и объектно-ориентированное программирование. Развивайте практические навыки с помощью практических упражнений без видео в интерактивной среде Python, что позволит вам писать чистый и эффективный код для различных приложений.
 
-|   Индекс | Название                                                                                | Сложность   | Repo                                                               | Практика                                                                       |
-|----------|-----------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с Python](https://labex.io/ru/courses/quick-start-with-python)           | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-python)    |
-|        2 | [Python для начинающих](https://labex.io/ru/courses/python-for-beginners)               | Начинающий  | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)       | [🚀 Начать Лабораторию](https://labex.io/ru/courses/python-for-beginners)       |
-|        3 | [Шпаргалка по Python](https://labex.io/ru/courses/python-cheatsheet)                    | Начинающий  | [🔗 Repo](https://github.com/labex-labs/python-cheatsheet)          | [🚀 Начать Лабораторию](https://labex.io/ru/courses/python-cheatsheet)          |
-|        4 | [Задачи для практики на Python](https://labex.io/ru/courses/python-practice-challenges) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/python-practice-challenges) |
+[Посмотреть курсы на LabEx](https://labex.io/ru/learn/python)
 
-## Больше
+|   Индекс | Курс                                                                                                                 | Сложность   | Репозиторий                                                              | Практика                                                                             |
+|----------|----------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|       01 | [Быстрый старт с Python](https://labex.io/ru/courses/quick-start-with-python)                                        | Начинающий  | [Repo](https://github.com/labex-labs/quick-start-with-python)            | [Начать лабораторию](https://labex.io/ru/courses/quick-start-with-python)            |
+|       02 | [Шпаргалка по Python](https://labex.io/ru/courses/python-cheatsheet)                                                 | Начинающий  | [Repo](https://github.com/labex-labs/python-cheatsheet)                  | [Начать лабораторию](https://labex.io/ru/courses/python-cheatsheet)                  |
+|       03 | [100 упражнений по Pandas](https://labex.io/ru/courses/100-pandas-exercises)                                         | Начинающий  | [Repo](https://github.com/labex-labs/100-pandas-exercises)               | [Начать лабораторию](https://labex.io/ru/courses/100-pandas-exercises)               |
+|       04 | [Pandas для начинающих](https://labex.io/ru/courses/pandas-for-beginners)                                            | Начинающий  | [Repo](https://github.com/labex-labs/pandas-for-beginners)               | [Начать лабораторию](https://labex.io/ru/courses/pandas-for-beginners)               |
+|       05 | [Задачи для практики на Python](https://labex.io/ru/courses/python-practice-challenges)                              | Начинающий  | [Repo](https://github.com/labex-labs/python-practice-challenges)         | [Начать лабораторию](https://labex.io/ru/courses/python-practice-challenges)         |
+|       06 | [Обучение с учителем: Регрессия](https://labex.io/ru/courses/supervised-learning-regression)                         | Начинающий  | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Начать лабораторию](https://labex.io/ru/courses/supervised-learning-regression)     |
+|       07 | [Python для начинающих](https://labex.io/ru/courses/python-for-beginners)                                            | Начинающий  | [Repo](https://github.com/labex-labs/python-for-beginners)               | [Начать лабораторию](https://labex.io/ru/courses/python-for-beginners)               |
+|       08 | [NumPy для начинающих](https://labex.io/ru/courses/numpy-for-beginners)                                              | Начинающий  | [Repo](https://github.com/labex-labs/numpy-for-beginners)                | [Начать лабораторию](https://labex.io/ru/courses/numpy-for-beginners)                |
+|       09 | [100 упражнений по NumPy](https://labex.io/ru/courses/100-numpy-exercises)                                           | Начинающий  | [Repo](https://github.com/labex-labs/100-numpy-exercises)                | [Начать лабораторию](https://labex.io/ru/courses/100-numpy-exercises)                |
+|       10 | [Scikit-learn для начинающих](https://labex.io/ru/courses/scikit-learn-for-beginners)                                | Начинающий  | [Repo](https://github.com/labex-labs/scikit-learn-for-beginners)         | [Начать лабораторию](https://labex.io/ru/courses/scikit-learn-for-beginners)         |
+|       11 | [Matplotlib для начинающих](https://labex.io/ru/courses/matplotlib-for-beginners)                                    | Начинающий  | [Repo](https://github.com/labex-labs/matplotlib-for-beginners)           | [Начать лабораторию](https://labex.io/ru/courses/matplotlib-for-beginners)           |
+|       12 | [Практические задачи по Pandas](https://labex.io/ru/courses/pandas-practice-challenges)                              | Начинающий  | [Repo](https://github.com/labex-labs/pandas-practice-challenges)         | [Начать лабораторию](https://labex.io/ru/courses/pandas-practice-challenges)         |
+|       13 | [Задачи для практики с NumPy](https://labex.io/ru/courses/numpy-practice-challenges)                                 | Начинающий  | [Repo](https://github.com/labex-labs/numpy-practice-challenges)          | [Начать лабораторию](https://labex.io/ru/courses/numpy-practice-challenges)          |
+|       14 | [Быстрый старт с OpenCV](https://labex.io/ru/courses/quick-start-with-opencv)                                        | Начинающий  | [Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [Начать лабораторию](https://labex.io/ru/courses/quick-start-with-opencv)            |
+|       15 | [Быстрый старт с TensorFlow](https://labex.io/ru/courses/quick-start-with-tensorflow)                                | Начинающий  | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Начать лабораторию](https://labex.io/ru/courses/quick-start-with-tensorflow)        |
+|       16 | [Обучение с учителем: Классификация](https://labex.io/ru/courses/supervised-learning-classification)                 | Начинающий  | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Начать лабораторию](https://labex.io/ru/courses/supervised-learning-classification) |
+|       17 | [Основы глубокого обучения](https://labex.io/ru/courses/foundations-of-deep-learning)                                | Начинающий  | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Начать лабораторию](https://labex.io/ru/courses/foundations-of-deep-learning)       |
+|       18 | [Ненадзорное обучение: Кластеризация](https://labex.io/ru/courses/unsupervised-learning-clustering)                  | Начинающий  | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Начать лабораторию](https://labex.io/ru/courses/unsupervised-learning-clustering)   |
+|       19 | [Администрирование кластера Kubernetes](https://labex.io/ru/courses/kubernetes-cluster-administration)               | Средний     | [Repo](https://github.com/labex-labs/kubernetes-cluster-administration)  | [Начать лабораторию](https://labex.io/ru/courses/kubernetes-cluster-administration)  |
+|       20 | [Основы Kubernetes](https://labex.io/ru/courses/kubernetes-fundamentals)                                             | Средний     | [Repo](https://github.com/labex-labs/kubernetes-fundamentals)            | [Начать лабораторию](https://labex.io/ru/courses/kubernetes-fundamentals)            |
+|       21 | [Основы визуализации данных с использованием Seaborn](https://labex.io/ru/courses/seaborn-data-visualization-basics) | Начинающий  | [Repo](https://github.com/labex-labs/seaborn-data-visualization-basics)  | [Начать лабораторию](https://labex.io/ru/courses/seaborn-data-visualization-basics)  |
+|       22 | [Практические задачи по Sklearn](https://labex.io/ru/courses/sklearn-practice-challenges)                            | Начинающий  | [Repo](https://github.com/labex-labs/sklearn-practice-challenges)        | [Начать лабораторию](https://labex.io/ru/courses/sklearn-practice-challenges)        |
 
-- 🔗 [Python Бесплатные туториалы](https://github.com/labex-labs/python-free-tutorials)
-- 🔗 [Потрясающие Проекты Программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Потрясающие Курсы Программирования](https://github.com/labex-labs/awesome-programming-courses)
+[Посмотреть больше на LabEx](https://labex.io/ru/learn/python)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 

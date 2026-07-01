@@ -1,25 +1,45 @@
-# Practice Python Programmierungskurse
+# Python Practice Courses
 
-## Sprachen
+**Sprachen:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/7aei0JokTWul.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/de/learn/python">
+    <img width="128" src="https://file.labex.io/upload/u/1991/7aei0JokTWul.png" alt="Python">
+  </a>
+</p>
 
 Lernen Sie Python, eine vielseitige, hochrangige Programmiersprache, mit diesem strukturierten Lernpfad, der für Anfänger konzipiert wurde. Diese Python-Kurse bieten einen systematischen Fahrplan, um Kernkonzepte wie Python-Syntax, Datenstrukturen und objektorientierte Programmierung zu meistern. Entwickeln Sie praktische Fähigkeiten durch praktische, nicht-video-basierte Übungen in einer interaktiven Python-Umgebung, die es Ihnen ermöglicht, sauberen und effizienten Code für verschiedene Anwendungen zu schreiben.
 
-|   Index | Name                                                                                     | Schwierigkeit   | Repo                                                               | Übung                                                                     |
-|---------|------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|
-|       1 | [Schnellstart mit Python](https://labex.io/de/courses/quick-start-with-python)           | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-python)    |
-|       2 | [Python für Anfänger](https://labex.io/de/courses/python-for-beginners)                  | Anfänger        | [🔗 Repo](https://github.com/labex-labs/python-for-beginners)       | [🚀 Labor Starten](https://labex.io/de/courses/python-for-beginners)       |
-|       3 | [Python Spickzettel](https://labex.io/de/courses/python-cheatsheet)                      | Anfänger        | [🔗 Repo](https://github.com/labex-labs/python-cheatsheet)          | [🚀 Labor Starten](https://labex.io/de/courses/python-cheatsheet)          |
-|       4 | [Python Übungsherausforderungen](https://labex.io/de/courses/python-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/python-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/python-practice-challenges) |
+[Kurse auf LabEx erkunden](https://labex.io/de/learn/python)
 
-## Mehr
+|   Index | Kurs                                                                                                            | Schwierigkeit   | Repository                                                               | Übung                                                                         |
+|---------|-----------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|      01 | [Schnellstart mit Python](https://labex.io/de/courses/quick-start-with-python)                                  | Anfänger        | [Repo](https://github.com/labex-labs/quick-start-with-python)            | [Lab starten](https://labex.io/de/courses/quick-start-with-python)            |
+|      02 | [Python Spickzettel](https://labex.io/de/courses/python-cheatsheet)                                             | Anfänger        | [Repo](https://github.com/labex-labs/python-cheatsheet)                  | [Lab starten](https://labex.io/de/courses/python-cheatsheet)                  |
+|      03 | [100 Pandas Übungen](https://labex.io/de/courses/100-pandas-exercises)                                          | Anfänger        | [Repo](https://github.com/labex-labs/100-pandas-exercises)               | [Lab starten](https://labex.io/de/courses/100-pandas-exercises)               |
+|      04 | [Pandas für Anfänger](https://labex.io/de/courses/pandas-for-beginners)                                         | Anfänger        | [Repo](https://github.com/labex-labs/pandas-for-beginners)               | [Lab starten](https://labex.io/de/courses/pandas-for-beginners)               |
+|      05 | [Python Übungsherausforderungen](https://labex.io/de/courses/python-practice-challenges)                        | Anfänger        | [Repo](https://github.com/labex-labs/python-practice-challenges)         | [Lab starten](https://labex.io/de/courses/python-practice-challenges)         |
+|      06 | [Überwachtes Lernen: Regression](https://labex.io/de/courses/supervised-learning-regression)                    | Anfänger        | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Lab starten](https://labex.io/de/courses/supervised-learning-regression)     |
+|      07 | [Python für Anfänger](https://labex.io/de/courses/python-for-beginners)                                         | Anfänger        | [Repo](https://github.com/labex-labs/python-for-beginners)               | [Lab starten](https://labex.io/de/courses/python-for-beginners)               |
+|      08 | [NumPy für Anfänger](https://labex.io/de/courses/numpy-for-beginners)                                           | Anfänger        | [Repo](https://github.com/labex-labs/numpy-for-beginners)                | [Lab starten](https://labex.io/de/courses/numpy-for-beginners)                |
+|      09 | [100 NumPy Übungen](https://labex.io/de/courses/100-numpy-exercises)                                            | Anfänger        | [Repo](https://github.com/labex-labs/100-numpy-exercises)                | [Lab starten](https://labex.io/de/courses/100-numpy-exercises)                |
+|      10 | [Scikit-learn für Anfänger](https://labex.io/de/courses/scikit-learn-for-beginners)                             | Anfänger        | [Repo](https://github.com/labex-labs/scikit-learn-for-beginners)         | [Lab starten](https://labex.io/de/courses/scikit-learn-for-beginners)         |
+|      11 | [Matplotlib für Anfänger](https://labex.io/de/courses/matplotlib-for-beginners)                                 | Anfänger        | [Repo](https://github.com/labex-labs/matplotlib-for-beginners)           | [Lab starten](https://labex.io/de/courses/matplotlib-for-beginners)           |
+|      12 | [Pandas Übungsaufgaben](https://labex.io/de/courses/pandas-practice-challenges)                                 | Anfänger        | [Repo](https://github.com/labex-labs/pandas-practice-challenges)         | [Lab starten](https://labex.io/de/courses/pandas-practice-challenges)         |
+|      13 | [NumPy Übungsaufgaben](https://labex.io/de/courses/numpy-practice-challenges)                                   | Anfänger        | [Repo](https://github.com/labex-labs/numpy-practice-challenges)          | [Lab starten](https://labex.io/de/courses/numpy-practice-challenges)          |
+|      14 | [Schnellstart mit OpenCV](https://labex.io/de/courses/quick-start-with-opencv)                                  | Anfänger        | [Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [Lab starten](https://labex.io/de/courses/quick-start-with-opencv)            |
+|      15 | [Schnellstart mit TensorFlow](https://labex.io/de/courses/quick-start-with-tensorflow)                          | Anfänger        | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Lab starten](https://labex.io/de/courses/quick-start-with-tensorflow)        |
+|      16 | [Überwachtes Lernen: Klassifikation](https://labex.io/de/courses/supervised-learning-classification)            | Anfänger        | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Lab starten](https://labex.io/de/courses/supervised-learning-classification) |
+|      17 | [Grundlagen des Deep Learnings](https://labex.io/de/courses/foundations-of-deep-learning)                       | Anfänger        | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Lab starten](https://labex.io/de/courses/foundations-of-deep-learning)       |
+|      18 | [Unüberwachtes Lernen: Clustering](https://labex.io/de/courses/unsupervised-learning-clustering)                | Anfänger        | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Lab starten](https://labex.io/de/courses/unsupervised-learning-clustering)   |
+|      19 | [Kubernetes Cluster Administration](https://labex.io/de/courses/kubernetes-cluster-administration)              | Fortgeschritten | [Repo](https://github.com/labex-labs/kubernetes-cluster-administration)  | [Lab starten](https://labex.io/de/courses/kubernetes-cluster-administration)  |
+|      20 | [Kubernetes Grundlagen](https://labex.io/de/courses/kubernetes-fundamentals)                                    | Fortgeschritten | [Repo](https://github.com/labex-labs/kubernetes-fundamentals)            | [Lab starten](https://labex.io/de/courses/kubernetes-fundamentals)            |
+|      21 | [Grundlagen der Datenvisualisierung mit Seaborn](https://labex.io/de/courses/seaborn-data-visualization-basics) | Anfänger        | [Repo](https://github.com/labex-labs/seaborn-data-visualization-basics)  | [Lab starten](https://labex.io/de/courses/seaborn-data-visualization-basics)  |
+|      22 | [Sklearn Übungsaufgaben](https://labex.io/de/courses/sklearn-practice-challenges)                               | Anfänger        | [Repo](https://github.com/labex-labs/sklearn-practice-challenges)        | [Lab starten](https://labex.io/de/courses/sklearn-practice-challenges)        |
 
-- 🔗 [Python Kostenlose Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- 🔗 [Großartige Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Großartige Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+[Mehr auf LabEx ansehen](https://labex.io/de/learn/python)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
